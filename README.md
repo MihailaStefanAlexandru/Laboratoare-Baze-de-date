@@ -6,6 +6,7 @@ activitatii de laborator.
 
   Se executa comenzi in linia de comanda deschizand SQL PLus.
   Conectarea se face cu urmatoarele comenzi:
-    >sys as sysdba
-    >parola data la instalarea database-ului
-    >connect stud1/student
+  
+      >sys as sysdba
+      >parola data la instalarea database-ului
+      >connect stud1/student
